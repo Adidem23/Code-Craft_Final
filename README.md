@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/Adidem23/Lexicode/assets/124609794/502821b8-db56-4cd9-a9d7-658b39224319" height="80px" width="80px" />
+ <img src="![CC_1](https://github.com/Adidem23/Code-Craft_Final/assets/124609794/bb1f2108-2e3a-40c8-84f3-f80e78d0641a)" height="80px" width="80px" />
   <h3 align="center"> CodeCraft : AI Based Blockchain Tool </h3>
 </div>
 <details>
