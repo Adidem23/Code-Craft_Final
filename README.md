@@ -80,8 +80,17 @@ npm install --force(If Any Error Comes) / npm install
 npm run start
    ```
 ## Output and Screenshots and Video Output :
-- FrontPage:
-  
+- FrontPage :
+  <img width="960" alt="Screenshot 2023-12-19 225049" src="https://github.com/Adidem23/Code-Craft_Final/assets/124609794/fc6f0fdc-4d3f-44fa-bc09-c09a4c0a13ab">
+
+- Cards Section :
+  <img width="959" alt="Screenshot 2023-12-19 225113" src="https://github.com/Adidem23/Code-Craft_Final/assets/124609794/30f85700-080c-49ba-bfeb-6978f4d52220">
+
+- Cards Animation :
+<img width="960" alt="Screenshot 2023-12-19 225124" src="https://github.com/Adidem23/Code-Craft_Final/assets/124609794/8caf2cbe-8fb6-4784-a2b9-9eb941a3138c">
+
+- D-GPT UI :
+  <img width="960" alt="Screenshot 2023-12-19 225139" src="https://github.com/Adidem23/Code-Craft_Final/assets/124609794/011be8e3-5d65-40f7-9057-d3c26811673e">
 
 
 ## Video Output of Code :
