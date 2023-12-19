@@ -53,7 +53,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ## Note : This is Not Final Project This Contains Many Bugs and improper UI and also This Repo Contains Frontend and Backend will be hosted on Docker
 
-<!-- GETTING STARTED -->
+
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
@@ -62,11 +62,9 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
   
-* Linux or Ubuntu must be there in your system
-
 * NodeJs
   ```sh
-  Download Nodejs Version ^ 17.0.0 LTS 
+  Download Nodejs Version ^ 18.0.0 LTS 
   ```
 
 ### Installation
