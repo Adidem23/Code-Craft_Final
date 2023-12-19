@@ -81,6 +81,7 @@ npm run start
    ```
 ## Output and Screenshots and Video Output :
 - FrontPage :
+  <br/>
   <img width="960" alt="Screenshot 2023-12-19 225049" src="https://github.com/Adidem23/Code-Craft_Final/assets/124609794/fc6f0fdc-4d3f-44fa-bc09-c09a4c0a13ab">
 
 - Cards Section :
