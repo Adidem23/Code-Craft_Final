@@ -17,7 +17,7 @@ body {
     background: url('../Helpers/Images/Matrix.svg');
     background-repeat: no-repeat;
     background-size: cover;
-    height: 1200px;
+    height: fit-content;
 }
 
 .navbar {

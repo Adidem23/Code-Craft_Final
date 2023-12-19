@@ -46,11 +46,11 @@ const Navbar = () => {
 
       {/* <button className="connect-button but2" id='munde'>Connect</button> */}
 
-      <button className="pushable"  onClick={ConnectMetamask}>
+      <button className="pushable">
         <span className="shadow"></span>
         <span className="edge"></span>
         <span className="front" id='munde'>
-          Connect 🦊
+          Star Repo 🤩
         </span>
       </button>
 
