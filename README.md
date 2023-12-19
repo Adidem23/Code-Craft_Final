@@ -27,6 +27,7 @@
 
 
 
+
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -34,10 +35,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
  - [![My Skills](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev) ReactJs
  - [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev) NodeJs
  - [![My Skills](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev) ExpressJs
- - [![My Skills](https://skillicons.dev/icons?i=linux&perline=3)](https://skillicons.dev) Linux
- - [![My Skills](https://skillicons.dev/icons?i=docker&perline=3)](https://skillicons.dev) Docker
- - [![My Skills](https://skillicons.dev/icons?i=bash&perline=3)](https://skillicons.dev) Bash-Shell
- - AlongSide This Used Lex,Flex, Bison , NodeJs-Child Processes , File Handling 
+ - [![My Skills](https://skillicons.dev/icons?i=solidity&perline=3)](https://skillicons.dev) Solidity
+ - AlongSide With EthersJs , NodJS-Child Processes and I Have Used Hardhat Project For Generation of ABI
 
 <!-- GETTING STARTED -->
 ### Prerequisites
