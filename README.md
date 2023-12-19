@@ -82,30 +82,33 @@ npm run start
 ## Output and Screenshots and Video Output :
 - FrontPage :
   <br/>
-  <br/>
-  <br/>
-  
   <img width="960" alt="Screenshot 2023-12-19 225049" src="https://github.com/Adidem23/Code-Craft_Final/assets/124609794/fc6f0fdc-4d3f-44fa-bc09-c09a4c0a13ab">
 
 - Cards Section :
+  <br/>
   <img width="959" alt="Screenshot 2023-12-19 225113" src="https://github.com/Adidem23/Code-Craft_Final/assets/124609794/30f85700-080c-49ba-bfeb-6978f4d52220">
 
 - Cards Animation :
+  <br/>
 <img width="960" alt="Screenshot 2023-12-19 225124" src="https://github.com/Adidem23/Code-Craft_Final/assets/124609794/8caf2cbe-8fb6-4784-a2b9-9eb941a3138c">
 
 - D-GPT UI :
+  <br/>
   <img width="960" alt="Screenshot 2023-12-19 225139" src="https://github.com/Adidem23/Code-Craft_Final/assets/124609794/011be8e3-5d65-40f7-9057-d3c26811673e">
 
 - Sample Code Generation :
+  <br/>
   <img width="960" alt="Screenshot 2023-12-19 225240" src="https://github.com/Adidem23/Code-Craft_Final/assets/124609794/089ef72d-3896-46c4-af5e-db26fa0f6db1">
 
 - Contract Section :
+  <br/>
   <img width="960" alt="Screenshot 2023-12-19 225254" src="https://github.com/Adidem23/Code-Craft_Final/assets/124609794/7008a599-0d93-45b6-b6f6-9b6b15a17e51">
 
 - Generation of ABI :
+  <br/>
   <img width="955" alt="Screenshot 2023-12-19 225417" src="https://github.com/Adidem23/Code-Craft_Final/assets/124609794/baff0ea0-35b7-42ef-a9dd-6d7b73cbd6c0">
+  <br/>
   <img width="960" alt="Screenshot 2023-12-19 225453" src="https://github.com/Adidem23/Code-Craft_Final/assets/124609794/4df982d9-8aa2-4db7-a7b7-8f7df74e5afd">
-
 
 ## Video Output of Code :
   
