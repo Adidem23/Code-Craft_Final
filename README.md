@@ -25,8 +25,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+ ## CodeCraft - AI-Generated Solidity Smart Contracts Platform
 
+In the rapidly evolving landscape of blockchain technology and smart contracts, CodeCraft emerges as a groundbreaking platform that seamlessly integrates artificial intelligence with blockchain development. The core objective of CodeCraft is to revolutionize the process of Solidity smart contract creation by leveraging advanced AI techniques for code generation and providing a comprehensive environment for testing and deployment.
 
+## Key Features:
+
+## 1.AI-Powered Code Generation:
+
+CodeCraft harnesses the power of artificial intelligence to automate the generation of Solidity smart contracts. Through machine learning models and natural language processing, the platform interprets high-level requirements and converts them into robust, secure, and efficient smart contract code.
+
+## 2.User Interface:
+CodeCraft offers an intuitive and user-friendly interface that allows users, regardless of their programming expertise, to easily input project specifications. The platform abstracts away the complexities of smart contract development, making it accessible to a wider audience.
+
+## 3.Real-Time Smart-contract Interaction:
+A unique feature of CodeCraft is its integrated testing environment for smart contracts. Users can Connect Metamask Account and can generate ABI And Can Deploy Contracts in real Time with their Wallet.
 
 ### Built With
 
