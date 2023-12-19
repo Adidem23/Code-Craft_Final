@@ -120,7 +120,7 @@ npm run start
 
 # Deployment Link : 
 https://code-craft-final.vercel.app/ : Deployed on Vercel
-https://throbbing-lake-7693.on.fleek.co/ : Deployed on IPFS
+https://throbbing-lake-7693.on.fleek.co/ : Deployed on IPFS through Fleek
 
 ## Video Output of Code :
   
