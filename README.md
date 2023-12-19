@@ -120,7 +120,10 @@ npm run start
 
 # Deployment Link : 
 https://code-craft-final.vercel.app/ : Deployed on Vercel
+
 https://throbbing-lake-7693.on.fleek.co/ : Deployed on IPFS through Fleek
 
+# Deployment is of Frontend Only 
+
 ## Video Output of Code :
-  
+https://youtu.be/CoKLgtaFCfA?si=9HZWrv88aJsz_tV2
