@@ -49,7 +49,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
  - [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev) NodeJs
  - [![My Skills](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev) ExpressJs
  - [![My Skills](https://skillicons.dev/icons?i=solidity&perline=3)](https://skillicons.dev) Solidity
- - AlongSide With EthersJs , NodeJS-Child Processes and I Have Used Hardhat Project For Generation of ABI
+ - AlongSide With all These I Have used EthersJs , NodeJS-Child Processes and I Have Used Hardhat Project For Generation of ABI
 
 ## Note : This is Not Final Project This Contains Many Bugs and improper UI and also This Repo Contains Frontend and Backend will be hosted on Docker
 
