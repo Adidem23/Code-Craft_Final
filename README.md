@@ -40,9 +40,7 @@ CodeCraft offers an intuitive and user-friendly interface that allows users, reg
 ## 3.Real-Time Smart-contract Interaction:
 A unique feature of CodeCraft is its integrated testing environment for smart contracts. Users can Connect Metamask Account and can generate ABI And Can Deploy Contracts in real Time with their Wallet.
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+### Built With : 
 
  - [![My Skills](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev) ReactJs
  - [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev) NodeJs
